@@ -1,6 +1,6 @@
 # Alzheimer’s Disease Classification Benchmark
 
-BIO215 Capstone Project (Group 27) - classical machine-learning workflow for
+BIO215 Capstone Project - classical machine-learning workflow for
 Alzheimer’s disease classification using structured clinical data.
 
 This repository contains the R-based part of the group project: data
@@ -111,7 +111,7 @@ clinical, cognitive, functional, and behavioural variables.
 ## Attribution
 
 Machine-learning modelling, analysis, and visualisation in this repository were
-developed by Hongyao Yang as part of BIO215 Group 27 at Xi’an
+developed by Hongyao Yang as part of BIO215 at Xi’an
 Jiaotong-Liverpool University.
 
 The original report credits the wider group for the web application, R package,
