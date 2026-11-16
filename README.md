@@ -1,4 +1,4 @@
-# Alzheimer’s Disease Classification Benchmark
+# Alzheimer’s Disease Benchmark Analysis
 
 BIO215 Capstone Project - classical machine-learning workflow for
 Alzheimer’s disease classification using structured clinical data.
